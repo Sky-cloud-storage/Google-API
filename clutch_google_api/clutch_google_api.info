@@ -1,0 +1,4 @@
+name = Clutch Google API
+description = Send files to Google Drive
+core = 7.x
+dependencies[]  = composer_manager
