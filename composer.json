@@ -1,7 +1,7 @@
 {
     "name": "drupal/clutch_google_api",
     "description": "Send files to Google Drive.",
-    "type": "drupal-module",
+    "type": "drupal-custom-module",
     "license": "GPL-2.0+",
     "minimum-stability": "dev",
     "require": {}
